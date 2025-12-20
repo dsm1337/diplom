@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="3">
   <diagram name="Страница — 1" id="NhXKuKQH06xGnpnrxxl9">
     <mxGraphModel dx="1501" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -720,11 +720,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qm46O83irRq8QhAncRMy" name="Страница-2">
-    <mxGraphModel dx="1869" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UHNlnV5NIF19vZLToRv0-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Случайная последовательность&lt;/font&gt;" vertex="1">
+        <mxCell id="UHNlnV5NIF19vZLToRv0-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Случайная послед." vertex="1">
           <mxGeometry height="80" width="80" x="290" y="40" as="geometry" />
         </mxCell>
         <mxCell id="UHNlnV5NIF19vZLToRv0-2" edge="1" parent="1" source="UHNlnV5NIF19vZLToRv0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;jumpStyle=arc;" target="UHNlnV5NIF19vZLToRv0-16">
@@ -765,7 +765,7 @@
         <mxCell id="UHNlnV5NIF19vZLToRv0-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Системный субъект выполнения" vertex="1">
           <mxGeometry height="40" width="120" x="260" y="418.25" as="geometry" />
         </mxCell>
-        <mxCell id="UHNlnV5NIF19vZLToRv0-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии&lt;br&gt;/dev/hdwrg" vertex="1">
+        <mxCell id="UHNlnV5NIF19vZLToRv0-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии" vertex="1">
           <mxGeometry height="80" width="80" x="560" y="190" as="geometry" />
         </mxCell>
         <mxCell id="UHNlnV5NIF19vZLToRv0-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="ГСЧ&lt;br&gt;Исходный&amp;nbsp;&lt;div&gt;код&lt;/div&gt;" vertex="1">
@@ -789,7 +789,7 @@
         <mxCell id="UHNlnV5NIF19vZLToRv0-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="exec" vertex="1">
           <mxGeometry height="30" width="90" x="130" y="410.25" as="geometry" />
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Пул энтропии /dev/urandom" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Псевдо-случайнная послед." vertex="1">
           <mxGeometry height="80" width="80" x="460" y="190" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-2" edge="1" parent="1" source="UHNlnV5NIF19vZLToRv0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.342;exitY=0.957;exitDx=0;exitDy=0;exitPerimeter=0;" target="v7Lbx4GARAmV8afFEM7P-1">
@@ -824,7 +824,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Случайная последовательность&lt;/font&gt;" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Случайная послед." vertex="1">
           <mxGeometry height="80" width="80" x="310" y="690" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-36" edge="1" parent="1" source="v7Lbx4GARAmV8afFEM7P-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;jumpStyle=arc;" target="v7Lbx4GARAmV8afFEM7P-46">
@@ -952,7 +952,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии&lt;br&gt;/dev/hdwrg" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии" vertex="1">
           <mxGeometry height="80" width="80" x="640" y="838.25" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-82" edge="1" parent="1" source="v7Lbx4GARAmV8afFEM7P-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="v7Lbx4GARAmV8afFEM7P-38">
@@ -993,7 +993,7 @@
         <mxCell id="v7Lbx4GARAmV8afFEM7P-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="exec" vertex="1">
           <mxGeometry height="30" width="90" x="150" y="1060.25" as="geometry" />
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-53" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Пул энтропии /dev/urandom" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-53" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Псевдо-случайнная послед.&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="80" x="460" y="838.25" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="read" vertex="1">
@@ -1167,7 +1167,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-125" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Случайная последовательность&lt;/font&gt;" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-125" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Случайная послед." vertex="1">
           <mxGeometry height="80" width="80" x="315" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-126" edge="1" parent="1" source="v7Lbx4GARAmV8afFEM7P-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;jumpStyle=arc;" target="v7Lbx4GARAmV8afFEM7P-151">
@@ -1311,7 +1311,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-148" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии&lt;br&gt;/dev/hdwrg" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-148" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии" vertex="1">
           <mxGeometry height="80" width="80" x="645" y="1528.25" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-149" edge="1" parent="1" source="v7Lbx4GARAmV8afFEM7P-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" target="v7Lbx4GARAmV8afFEM7P-131">
@@ -1352,7 +1352,7 @@
         <mxCell id="v7Lbx4GARAmV8afFEM7P-157" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="exec" vertex="1">
           <mxGeometry height="30" width="90" x="130" y="1829.25" as="geometry" />
         </mxCell>
-        <mxCell id="v7Lbx4GARAmV8afFEM7P-158" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Пул энтропии /dev/urandom" vertex="1">
+        <mxCell id="v7Lbx4GARAmV8afFEM7P-158" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Псевдо-случайнная послед.&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="80" x="465" y="1528.25" as="geometry" />
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-159" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="read" vertex="1">
@@ -1543,6 +1543,109 @@
         </mxCell>
         <mxCell id="v7Lbx4GARAmV8afFEM7P-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="write" vertex="1">
           <mxGeometry height="30" width="60" x="259" y="1490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O8TIJmLCcC-WJVtXv1fC" name="Страница-3">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-26" edge="1" parent="1" source="5Qhvaf-W7khAked1grQR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" target="hvFu8IjIdqHgRwih4PGI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Qhvaf-W7khAked1grQR-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Нарушитель" vertex="1">
+          <mxGeometry height="40" width="120" x="590" y="486.13" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font&gt;Случайная послед.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-2" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;jumpStyle=arc;" target="hvFu8IjIdqHgRwih4PGI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-3" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="hvFu8IjIdqHgRwih4PGI-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Пользователь" vertex="1">
+          <mxGeometry height="40" width="120" x="100" y="218.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-5" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hvFu8IjIdqHgRwih4PGI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-6" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hvFu8IjIdqHgRwih4PGI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ГСЧ процесс" vertex="1">
+          <mxGeometry height="40" width="120" x="590" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-8" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hvFu8IjIdqHgRwih4PGI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" target="hvFu8IjIdqHgRwih4PGI-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="438" />
+              <mxPoint x="770" y="80" />
+            </Array>
+            <mxPoint x="420" y="438.3000000000002" as="sourcePoint" />
+            <mxPoint x="840" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Системный субъект выполнения" vertex="1">
+          <mxGeometry height="40" width="120" x="310" y="418.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Источник энтропии" vertex="1">
+          <mxGeometry height="80" width="80" x="610" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="ГСЧ&lt;br&gt;Исходный&amp;nbsp;&lt;div&gt;код&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="330" y="254.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="read" vertex="1">
+          <mxGeometry height="30" width="100" x="300" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="exec" vertex="1">
+          <mxGeometry height="30" width="100" x="450" y="410.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="write, read" vertex="1">
+          <mxGeometry height="30" width="100" x="220" y="199.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="read" vertex="1">
+          <mxGeometry height="30" width="60" x="640" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="write" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="exec" vertex="1">
+          <mxGeometry height="30" width="90" x="180" y="410.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Псевдо-случайнная послед.&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" x="510" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-20" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.342;exitY=0.957;exitDx=0;exitDy=0;exitPerimeter=0;" target="hvFu8IjIdqHgRwih4PGI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="read" vertex="1">
+          <mxGeometry height="30" width="60" x="565" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-22" edge="1" parent="1" source="hvFu8IjIdqHgRwih4PGI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hvFu8IjIdqHgRwih4PGI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Субъект вывода" vertex="1">
+          <mxGeometry height="40" width="120" x="100" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="read" vertex="1">
+          <mxGeometry height="30" width="60" x="224" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Подменный источник энтропии" vertex="1">
+          <mxGeometry height="80" width="80" x="610" y="324.38" as="geometry" />
+        </mxCell>
+        <mxCell id="hvFu8IjIdqHgRwih4PGI-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="take,grant,&lt;div&gt;read,write&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="640" y="444.38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
