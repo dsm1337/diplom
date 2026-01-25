@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.9" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.9" pages="4">
   <diagram name="Страница — 1" id="NhXKuKQH06xGnpnrxxl9">
     <mxGraphModel dx="1501" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1803,6 +1803,51 @@
         </mxCell>
         <mxCell id="hvFu8IjIdqHgRwih4PGI-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="take,grant,&lt;div&gt;read,write&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="100" x="640" y="444.38" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="N2iac5MbZxDc4qS62_fS" name="Страница-4">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MfR6kxet8thNcGit_saq-3" edge="1" parent="1" source="MfR6kxet8thNcGit_saq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MfR6kxet8thNcGit_saq-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="40" width="120" x="60" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-8" edge="1" parent="1" source="MfR6kxet8thNcGit_saq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MfR6kxet8thNcGit_saq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Получение энтропии&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="120" x="210" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-9" edge="1" parent="1" source="MfR6kxet8thNcGit_saq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MfR6kxet8thNcGit_saq-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка энтропии" vertex="1">
+          <mxGeometry height="40" width="130" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-13" edge="1" parent="1" source="MfR6kxet8thNcGit_saq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MfR6kxet8thNcGit_saq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Генерация случайной последовательности" vertex="1">
+          <mxGeometry height="40" width="130" x="540" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-15" edge="1" parent="1" source="MfR6kxet8thNcGit_saq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MfR6kxet8thNcGit_saq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Вывод случайной последовательности" vertex="1">
+          <mxGeometry height="40" width="130" x="710" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MfR6kxet8thNcGit_saq-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="40" width="120" x="870" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
